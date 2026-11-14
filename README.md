@@ -6,6 +6,7 @@ Artwork and metadata for [OpenCabinet-BDD](https://github.com/Utogu9/OpenCabinet
 - Game names and identifiers: [Redump](https://redump.info/).
 - Shared metadata: [Wikidata](https://www.wikidata.org/) contributors ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)).
 - Additional artwork and release metadata: [PSX Datacenter](https://psxdatacenter.com/). Original image references are retained in `catalog.sqlite`.
+- Additional cover scans: [Gaming Alexandria](https://www.gamingalexandria.com/wp/scans/sony-playstation-2/). Source pages and available scan credits are retained in `catalog.sqlite`.
 
 Sources and available contributor credits are retained in `catalog.sqlite` and, where present, `console_artwork.json`. Artwork belongs to its respective rights holders; this repository does not assign it a new license.
 
