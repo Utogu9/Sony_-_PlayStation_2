@@ -11,3 +11,5 @@ Artwork and metadata for [OpenCabinet-BDD](https://github.com/Utogu9/OpenCabinet
 Sources and available contributor credits are retained in `catalog.sqlite` and, where present, `console_artwork.json`. Artwork belongs to its respective rights holders; this repository does not assign it a new license.
 
 `catalog.sqlite` stores the complete normalized catalog (SQLite storage version 2), including games, artwork references, metadata and provenance. [OpenCabinet-BDD_Editor](https://github.com/Utogu9/OpenCabinet-BDD_Editor) v1.5.1 or later supports this format.
+
+- Selected game descriptions and infobox metadata: [Wikipedia contributors](WIKIPEDIA-CREDITS.md), under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
